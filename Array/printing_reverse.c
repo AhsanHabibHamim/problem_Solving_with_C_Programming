@@ -1,11 +1,14 @@
 #include <stdio.h>
 int main(){
-    int ahsan[5];
-    for(int i = 0; i <5; i++)
+    printf("Enter the size of array: ");
+    int n;
+    scanf("%d", &n);
+    int ahsan[n];
+    for(int i = 0; i <n; i++)
     {
         scanf("%d", &ahsan[i]);
     }
-    for(int i = 0; i<5; i++)
+    for(int i = n-1; i>=0; i--)
     {
         printf("%d\n", ahsan[i]);
     }
