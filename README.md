@@ -15,7 +15,6 @@ It includes beginner concepts, algorithm implementations, and coding challenge s
 - Structures & file handling  
 - Mathematical and logical problem solving  
 - Data Structures (Stack, Queue, Linked List)  
-- Competitive programming fundamentals  
 
 ---
 
