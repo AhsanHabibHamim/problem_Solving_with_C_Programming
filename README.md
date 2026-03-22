@@ -1,4 +1,4 @@
-# 📘 C Problem Solving & Practice Repository  
+# 📘 C Problem Solving & Practice Repository Updated
 
 This repository is created to learn **C programming** step-by-step and practice **daily problem solving**.  
 It includes beginner concepts, algorithm implementations, and coding challenge solutions.
